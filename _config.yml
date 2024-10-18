@@ -5,8 +5,8 @@ description:        "(✿◡‿◡)"
 encoding:			UTF-8
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/ice.jpg'
-background:         'assets/img/placeholder-big_3.jpg'
+logo:               'assets/img/GuoliangZhong.jpg'
+background:         'assets/img/back.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://ybx13579.github.io/IceYang.github.io/
