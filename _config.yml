@@ -4,7 +4,7 @@ bio:                'Signature:Read ten thousand books and travel ten thousand m
 description:        "(✿◡‿◡)"
 encoding:			UTF-8
 reading_time:       true
-words_per_minute:   200
+words_per_minute:   2000
 logo:               'assets/img/GuoliangZhong.jpg'
 background:         'assets/img/IMG_0965.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
