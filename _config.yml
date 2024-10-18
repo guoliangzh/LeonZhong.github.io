@@ -1,10 +1,10 @@
 ﻿# Site
 title:              Guoliang Zhong
-bio:                'Signature:Read ten thousand books and travel ten thousand miles.  University:Lingnan University          Email:guoliangzhong@ln.hk'
+bio:                'Signature:Read ten thousand books and travel ten thousand miles.  University:Lingnan University            Email:guoliangzhong@ln.hk'
 description:        "(✿◡‿◡)"
 encoding:			UTF-8
 reading_time:       true
-words_per_minute:   2000
+words_per_minute:   200
 logo:               'assets/img/GuoliangZhong.jpg'
 background:         'assets/img/IMG_0965.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
