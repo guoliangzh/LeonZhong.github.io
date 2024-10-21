@@ -9,7 +9,7 @@ logo:               'assets/img/GuoliangZhong.jpg'
 background:         'assets/img/feng.jpg'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://ybx13579.github.io/IceYang.github.io/
+url:                https://guoliangzh.github.io/LeonZhong.github.io/
 
 # Jekyll
 permalink:          /:title/
