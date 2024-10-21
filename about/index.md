@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the author:Guoliang Zhong
+title: About the author
 tags: [html/css js/jq Echarts vue bootstrap]
 date: 2024
 comments: false
@@ -8,22 +8,16 @@ comments: false
 ---
  
 <center>Guoliang Zhong</center>
-<center> major | Msccct+</center>
-<center>guoliangzhong@ln.hk</center>
+<center> Major | Msccct+</center>
+<center>Lingnan University</center>
 
 ---
 
-# Personal Information
+# My hobbies
 
- - Guoliang Zhong/male/2001
- - postgraduate/Mscct+
- - hobbies：Traveling/Reading/Sports
- - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
- - Github： [GitHub](https://github.com/ybx13579) 
- - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)<br/>
- - 期望职位：Web前端工程师，H5工程师，JS工程师
- - 期望薪资：7k-10k / 13k-18k
- - 期望城市：石家庄 / 北京
+ - hobbies：Traveling/Watching movies/Photography
+ - The background picture of this website was taken when I was traveling to Wugong Mountain. I recently watched a movie called Jungle, which is about a group of people going on an adventure in the jungle. I really like the friendship in this movie and it moved me very much.
+ 
  
  
 ---
