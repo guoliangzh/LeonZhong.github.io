@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Ice Yang 的简历
+title: About the author:Guoliang Zhong
 tags: [html/css js/jq Echarts vue bootstrap]
-date: 2017
+date: 2024
 comments: false
 
 ---
  
-<center>Ice Yang</center>
-<center> 专 | 计算机应用技术</center>
-<center>iceyangweb@gmail.com</center>
+<center>Guoliang Zhong</center>
+<center> major | Msccct+</center>
+<center>guoliangzhong@ln.hk</center>
 
 ---
 
-# 个人信息
+# Personal Information
 
- - Ice Yang/女/1994
- - 大专/计算机应用技术专业
- - 工作年限：3年+
+ - Guoliang Zhong/male/2001
+ - postgraduate/Mscct+
+ - hobbies：Traveling/Reading/Sports
  - 技术博客：[CSDN博客](http://blog.csdn.net/YangBingX)
  - Github： [GitHub](https://github.com/ybx13579) 
  - 微博：[@话梅大人ME](http://weibo.com/u/2114928095)<br/>
